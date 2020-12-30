@@ -12,9 +12,7 @@ I obtained one keychip for PDAFT (Project Diva Arcade Future Tone) and an unknow
 
 Keychip for PDAFT
 
-![Keychip For Project Diva](./res/pdaft.bmp)
-
-Image credit to: [日記β](http://d4.princess.ne.jp/blog/art/00007.html#cm)
+![Keychip For Project Diva](./res/C2DEB781-2784-4DEB-BDEF-251B5DDEC5B7.jpeg)
 
 Keychip for Nu SX
 
