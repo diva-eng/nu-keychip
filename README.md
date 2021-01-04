@@ -1,5 +1,8 @@
 <!-- omit in toc -->
 # nu-keychip
+
+Archived: keychip information moved to the [main repo](https://github.com/diva-eng/sega-nu)
+
 Information about the Sega Nu keychips
 - [Introduction](#introduction)
 - [Keychips](#keychips)
